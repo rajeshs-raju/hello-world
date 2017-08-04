@@ -1,2 +1,4 @@
 # hello-world
-firstone
+Hi!
+
+I like c 
